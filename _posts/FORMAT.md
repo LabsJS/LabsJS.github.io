@@ -1,10 +1,9 @@
 ---
-title : ""
+title : "Deep Anomaly Detection ()"
 excerpt : ""
 toc: true
 toc_sticky: true
 categories :	
- - C
-tags:
- - T 
+ - Deep Learning
+ - Anomaly Detection
 ---
